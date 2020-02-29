@@ -1,0 +1,2 @@
+1. Built responsive about page.
+2. Local storage implementation and implemented data read in view order's component file.
